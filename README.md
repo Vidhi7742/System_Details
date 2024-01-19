@@ -19,7 +19,13 @@ This Python script retrieves various system information, including installed sof
    ```bash
    cd system_info_script
 
-4. Run the script:
+
+3. Install required libraries:
+   ```bash
+   pip install -r requirements.txt
+   
+
+6. Run the script:
    ```bash
    python system_info.py
 
