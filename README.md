@@ -25,6 +25,8 @@ This Python script retrieves various system information, including installed sof
 ## Output
 The script will display information about your system in the command prompt.
 
-Script Details
+## Script Details
+
 system_info.py: The main script file.
+
 requirements.txt: List of required Python libraries.
