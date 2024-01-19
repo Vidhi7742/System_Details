@@ -16,9 +16,10 @@ This Python script retrieves various system information, including installed sof
 
 
 2. Navigate to the script's directory:
+   ```bash
    cd system_info_script
 
-3. Run the script:
+4. Run the script:
    ```bash
    python system_info.py
 
